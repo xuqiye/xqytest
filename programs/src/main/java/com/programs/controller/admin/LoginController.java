@@ -59,8 +59,6 @@ public class LoginController extends BaseController{
 		String enPassword = request.getParameter("enPassword");
 		//解密
 	
-		//asdasdasda
-		//sadasdasdsad
 		return null;
 	}
 	
