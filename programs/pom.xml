@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   
    
-<properties>
+<properties> 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <jdk-version>1.7</jdk-version>
@@ -387,7 +387,7 @@
             <scope>system</scope>
             <systemPath>${project.basedir}/libs/IKAnalyzer3.2.8.jar</systemPath>
         </dependency>
-        <!--<dependency>-->
+        <!--<dependency>--> 
         <!--<groupId>org.wltea.ik-analyzer</groupId>-->
         <!--<artifactId>ik-analyzer</artifactId>-->
         <!--<version>3.2.8</version>-->
