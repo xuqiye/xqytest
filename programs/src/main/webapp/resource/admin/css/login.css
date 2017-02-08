@@ -1,0 +1,90 @@
+@charset "utf-8";
+.login {
+	background-color: #f9f9f9;
+}
+
+.login .body {
+	width: 600px;
+    overflow: hidden;
+    padding: 170px 160px 0;
+	margin:0 auto;
+}
+
+.login .boxMiddle {
+	width: 600px;
+	height: 10px;
+	overflow: hidden;
+	
+}
+.login .boxTop {
+	width: 600px;
+	height: 200px;
+	padding: 40px 0px;
+	overflow: hidden;
+	border: 1px #d8d8d8 solid;
+	background-color: #fff;
+
+}
+.login .boxButtom{
+	font-size:large;
+	color:#000000;
+	text-align:center;
+	height: 30px;
+}
+
+.login .captchaImage img {
+	cursor: pointer;
+}
+.login .homeButton {
+	width: 44px;
+	height: 32px;
+	line-height:32px;
+	float: left;
+	border: none;
+	cursor: pointer;
+	outline: none;
+	background: url(../images/login_bg.gif) 0px -90px no-repeat;
+}
+.login .submitButton {
+	width: 50px;
+	height: 32px;
+	line-height:32px;
+	float: left;
+	border:none;
+	cursor: pointer;
+	outline: none;
+	background: url(../images/login_bg.gif) -44px -90px no-repeat;
+}
+.login .registerButton {
+	width: 55px;
+	height: 32px;
+	line-height:32px;
+	float: left;
+	border:none;
+	cursor: pointer;
+	outline: none;
+	background: url(../images/login_bg.gif) -94px -90px no-repeat;
+}
+
+.username,.password,.captcha{
+	height: 20px;
+}
+.login .loginTable {
+	width: 310px;
+	margin-left: 180px;
+	
+}
+
+.login .loginTable th {
+	width: 60px;
+}
+
+.login .loginTable tr {
+	height: 30px;
+}
+.login .captchaImage {
+	float: left;
+	margin-left: 6px;
+}
+
+
